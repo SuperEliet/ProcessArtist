@@ -1,5 +1,7 @@
 require 'ruby-processing'
 
+puts "Start the drawer"
+
 class FirstSketch < Processing::App
 	def setup
 		background(255, 255, 255)
