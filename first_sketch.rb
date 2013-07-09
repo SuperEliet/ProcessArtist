@@ -4,7 +4,7 @@ class FirstSketch < Processing::App
 	def setup
 		background(255, 255, 255)
 	end
-
+	
 	def draw(stroke, stroke_weight, fill)
 		stroke(254, 254, 254)
 		stroke_weight(34,43,53)
